@@ -3,3 +3,4 @@ mysql:8.0.37
 redis:6.2.14
 nacos/nacos-server
 mongo
+gcr.io/k8s-minikube/kicbase:v0.0.44
