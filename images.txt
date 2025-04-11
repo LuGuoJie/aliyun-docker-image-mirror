@@ -1,1 +1,1 @@
-busybox
+pretty66/iptables-web:1.1.1
