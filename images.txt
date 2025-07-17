@@ -1,1 +1,1 @@
-mysql:5.7.28
+quay.io/tigera/operator:v1.38.0
