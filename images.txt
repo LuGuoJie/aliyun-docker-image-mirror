@@ -1,3 +1,4 @@
 quay.io/tigera/operator:v1.38.0
 mysql:5.7.28
 nginx:1.26.2
+alpin:3.7
