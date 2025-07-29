@@ -1,1 +1,2 @@
-busybox
+grafana/loki:2.6.1
+docker.io/grafana/promtail:2.8.3
