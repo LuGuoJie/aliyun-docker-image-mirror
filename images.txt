@@ -1,2 +1,1 @@
-grafana/grafana:8.3.5
-quay.io/kiwigrid/k8s-sidecar:1.9.2
+jockerhub.com/grafana/grafana:7.0.1
