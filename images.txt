@@ -1,1 +1,2 @@
 jockerhub.com/grafana/grafana:7.0.1
+jockerhub.com/prom/prometheus:v2.18.1
