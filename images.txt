@@ -1,1 +1,1 @@
-coredns/coredns:1.11.4
+docker.m.daocloud.io/library/busybox:1.28
