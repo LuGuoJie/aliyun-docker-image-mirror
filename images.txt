@@ -1,2 +1,2 @@
-kong:3.6
+registry.k8s.io/pause:3.10
 
