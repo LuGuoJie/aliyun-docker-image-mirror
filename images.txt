@@ -1,2 +1,4 @@
-registry.k8s.io/pause:3.10
+prom/prometheus:v2.18.1
+grafana/grafana:7.0.1
+
 
