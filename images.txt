@@ -1,13 +1,2 @@
-quay.m.daocloud.io/cilium/cilium:v1.16.4
-quay.m.daocloud.io/cilium/certgen:v0.2.0
-quay.m.daocloud.io/cilium/hubble-relay:v1.16.4
-quay.m.daocloud.io/cilium/hubble-ui-backend:v0.13.1
-quay.m.daocloud.io/cilium/hubble-ui:v0.13.1
-quay.m.daocloud.io/cilium/cilium-envoy:v1.30.7-1731393961-97edc2815e2c6a174d3d12e71731d54f5d32ea16
-quay.m.daocloud.io/cilium/operator:v1.16.4
-quay.m.daocloud.io/cilium/startup-script:c54c7edeab7fde4da68e59acd319ab24af242c3f
-quay.m.daocloud.io/cilium/cilium:v1.16.4
-quay.m.daocloud.io/cilium/clustermesh-apiserver:v1.16.4
-docker.io/library/busybox:1.36.1
-ghcr.io/spiffe/spire-agent:1.9.6
-ghcr.io/spiffe/spire-server:1.9.6
+coredns/coredns
+k8s.chenby.cn/cpa/cluster-proportional-autoscaler:1.8.5
