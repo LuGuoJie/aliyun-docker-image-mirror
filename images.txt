@@ -1,1 +1,2 @@
-k8s.chenby.cn/cpa/cluster-proportional-autoscaler:1.8.5
+quay.io/metallb/controller:v0.14.9
+quay.io/metallb/speaker:v0.14.9
