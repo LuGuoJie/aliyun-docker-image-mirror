@@ -1,1 +1,1 @@
-quay.io/tigera/operator:v1.34.13
+k8s.dockerproxy.com/sig-storage/nfs-subdir-external-provisioner:v4.0.2
