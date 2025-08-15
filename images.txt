@@ -1,1 +1,1 @@
-mysql:8.0.36
+docker.io/bitnami/mysql:8.0.36
