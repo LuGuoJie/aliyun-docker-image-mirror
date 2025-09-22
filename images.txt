@@ -1,2 +1,2 @@
 mysql:5.7
-gcr.io/google-samples/xtrabackup:1.0
+xtrabackup:1.0
