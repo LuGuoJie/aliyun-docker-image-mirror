@@ -1,2 +1,1 @@
-mysql:5.7
-xtrabackup:1.0
+registry:latest
