@@ -1,1 +1,2 @@
 registry:latest
+registry:2
