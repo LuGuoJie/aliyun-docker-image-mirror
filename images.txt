@@ -1,1 +1,1 @@
-zabbix/zabbix-agent:alpine-7.4-latest
+exiahuang/filehub-server:latest
