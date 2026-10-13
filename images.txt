@@ -1,1 +1,1 @@
-exiahuang/filehub-server:latest
+keking/kkfileview:v4.0.0
