@@ -1,1 +1,1 @@
-ethercalc:selfhost
+zabbix/zabbix-java-gateway:alpine-7.4-latest
